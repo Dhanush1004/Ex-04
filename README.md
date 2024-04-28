@@ -68,13 +68,13 @@ def main():
         print()
         print("SHA1(\"" + input_str.decode('utf-8') + "\") = " + bytes_to_hex(output))
         
-        input_str = "muffa".encode('utf-8')
+        input_str = "dhanush".encode('utf-8')
         md.update(input_str)
         output = md.digest()
         print()
         print("SHA1(\"" + input_str.decode('utf-8') + "\") = " + bytes_to_hex(output))
         
-        input_str = "mohammed muffa".encode('utf-8')
+        input_str = "dhanush anbu".encode('utf-8')
         md.update(input_str)
         output = md.digest()
         print()
@@ -99,7 +99,7 @@ if __name__ == "__main__":
 ```
 ## OUTPUT:
 
-![Screenshot 2024-04-28 215641](https://github.com/22003399/Ex-04/assets/121918391/6ca38e0a-897a-4694-9acd-eab5fd1b88d7)
+![Uploading Screenshot 2024-04-28 223928.png…]()
 
 ## RESULT:
 Thus SHA was implemented successfully.
