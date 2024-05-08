@@ -1,3 +1,4 @@
+## EX NO:3
 ## SECURE HASH FUNCTION (SHA)
 ## DATE :
 ## AIM:
