@@ -1,5 +1,5 @@
 ## EX NO:3
-## SECURE HASH FUNCTION (SHA)
+## A.SECURE HASH FUNCTION (SHA)
 ## DATE :
 ## AIM:
 Develop a program to implement Secure Hash Algorithm (SHA-1)
@@ -106,7 +106,7 @@ Thus SHA was implemented successfully.
 
 
 
-  ## DIGITAL SIGNATURE STANDARD
+  ## B.DIGITAL SIGNATURE STANDARD
 
 ## AIM:
 To write a C program to implement the signature scheme named digital
